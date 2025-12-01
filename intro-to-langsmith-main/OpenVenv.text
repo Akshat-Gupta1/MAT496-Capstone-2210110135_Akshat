@@ -1,3 +1,0 @@
-python3.12 -m venv langenv
-source langenv/bin/activate
-
