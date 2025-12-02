@@ -10,11 +10,11 @@ The **Research Analyzer** is a LangGraph-based multi-agent system that creates a
 4. **Report Synthesis**: Findings are synthesized into a professional report with introduction, analysis, conclusion, and citations
 
 **Key Features:**
-- 🤖 Multi-agent architecture with specialized analyst personas
-- 🔍 Real-time web search integration via Tavily API
-- 📊 Parallel execution of multiple analyst workflows
-- 📝 Automatic report generation with proper citations
-- 🔄 Human-in-the-loop feedback for analyst refinement
+- Multi-agent architecture with specialized analyst personas
+- Real-time web search integration via Tavily API
+- Parallel execution of multiple analyst workflows
+- Automatic report generation with proper citations
+- Human-in-the-loop feedback for analyst refinement
 
 ---
 
@@ -38,7 +38,7 @@ The project demonstrates **creativity** by building a practical research automat
 
 ## Video Summary Link
 
-📹 **[Video Demo Link - Add Your YouTube/Google Drive Link Here]**
+📹 https://drive.google.com/drive/folders/18WvwD7D7tSS5ojl2Yfv27504oz1Ld7z2?usp=sharing
 
 **Video Contents:**
 - Personal introduction with face visible
